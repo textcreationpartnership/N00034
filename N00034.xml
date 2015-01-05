@@ -112,8 +112,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:000067_0000_0F9F1B1C2E700FC0"/>
-            <pb facs="tcp:000067_0001_0F9F1B0B8FA4F1A0"/>
+            <pb facs="unknown:000067_0000_0F9F1B1C2E700FC0"/>
+            <pb facs="unknown:000067_0001_0F9F1B0B8FA4F1A0"/>
             <p>A SHORT CATECHISM Composed By Mr. <hi>JAMES NOYES</hi> Late Teacher of the Church of Christ IN NEWBURY For the use of the Children there.</p>
             <p>CAMBRID<gap reason="illegible: indecipherable" extent="2 letters">
                   <desc>••</desc>
@@ -124,7 +124,7 @@
       </front>
       <body>
          <div type="catechism">
-            <pb n="3" facs="tcp:000067_0002_0F9F1B0BDD7179C0"/>
+            <pb n="3" facs="unknown:000067_0002_0F9F1B0BDD7179C0"/>
             <head>A SHORT CATECHISM By way of <hi>Question</hi> and <hi>Answer.</hi>
             </head>
             <p>Quest. <hi>HOw do the Scriptures prove themselves to be true?</hi>
@@ -146,7 +146,7 @@
             <p>Q. <hi>What is Faith?</hi>
             </p>
             <p>
-               <pb n="4" facs="tcp:000067_0003_0F9F1B0C88736038"/>
+               <pb n="4" facs="unknown:000067_0003_0F9F1B0C88736038"/>
                <note place="margin">Rom. 10.9 1 Joh. 5.1. Joh. 17.2. Act. 8.37. Joh. 6.40. 1 Joh. 4.15 &amp; 3.6.</note>
                <hi>A.</hi> Faith is an effectual assent to the Doctrine of the Scriptures, especial<g ref="char:EOLhyphen"/>ly concerning the Grace of God in Christ.</p>
             <p>Q. <hi>What doth the Scripture reveal concerning God?</hi>
@@ -171,7 +171,7 @@
             <p>Qu. <hi>How many fold are the Acts of God?</hi>
             </p>
             <p>
-               <pb n="5" facs="tcp:000067_0004_0F9F1B0D430B05B0"/>
+               <pb n="5" facs="unknown:000067_0004_0F9F1B0D430B05B0"/>
                <hi>Ans.</hi> Twofold: Eternal and Tem<g ref="char:EOLhyphen"/>poral.</p>
             <p>Quest. <hi>What are the Eternal acts of God?</hi>
             </p>
@@ -203,7 +203,7 @@
             <p>
                <hi>A.</hi> An Eternal act of God,<note place="margin">Rom. 9.22 1 Pet. 2.8. Jude 4.</note> where<g ref="char:EOLhyphen"/>by he did determine to glorifie himself in condemning a certain number of per<g ref="char:EOLhyphen"/>sons for their sins.</p>
             <p>
-               <pb n="6" facs="tcp:000067_0005_0F9F1B0E97638C80"/>Q. <hi>What are the temporal acts of God?</hi>
+               <pb n="6" facs="unknown:000067_0005_0F9F1B0E97638C80"/>Q. <hi>What are the temporal acts of God?</hi>
             </p>
             <p>
                <hi>A.</hi> Creation, Preservation, and Go<g ref="char:EOLhyphen"/>vernment.</p>
@@ -236,7 +236,7 @@
                <note place="margin">Mark 16.16.</note>
                <hi>A.</hi> A promise of life upon Faith in Christ.</p>
             <p>
-               <pb n="7" facs="tcp:000067_0006_0F9F1B0FA932CC78"/>Q. <hi>What is the occasion of the Cove<g ref="char:EOLhyphen"/>nant of the Gospel?</hi>
+               <pb n="7" facs="unknown:000067_0006_0F9F1B0FA932CC78"/>Q. <hi>What is the occasion of the Cove<g ref="char:EOLhyphen"/>nant of the Gospel?</hi>
             </p>
             <p>
                <hi>A. Adams</hi> sin.</p>
@@ -284,7 +284,7 @@
                <hi>A.</hi> No<g ref="char:punc">▪</g>
                <note place="margin">Heb. 12.20 Rom. 3.20. Joh. 15.5.</note> because we cannot per<g ref="char:EOLhyphen"/>form the condition of it, which is per<g ref="char:EOLhyphen"/>fect obedience: yea, by reason of the Fall of <hi>Adam</hi> we cannot do any good thing.</p>
             <p>
-               <pb n="8" facs="tcp:000067_0007_0F9F1B10AAFC4D90"/>Q. <hi>Can we perform the condition of the Covenant of the Gospel?</hi>
+               <pb n="8" facs="unknown:000067_0007_0F9F1B10AAFC4D90"/>Q. <hi>Can we perform the condition of the Covenant of the Gospel?</hi>
             </p>
             <p>
                <note place="margin">Jer. 31.33</note>
@@ -320,7 +320,7 @@
             </p>
             <p>
                <hi>A.</hi> A deliverance of the Elect from
-<pb n="9" facs="tcp:000067_0008_0F9F1B11AB6CBEB8"/>
+<pb n="9" facs="unknown:000067_0008_0F9F1B11AB6CBEB8"/>
 sin and misery, by the price of Christs Obedience.<note place="margin">Tit. 2.14.</note>
             </p>
             <p>Q. <hi>How many fold is Christs obedience?</hi>
@@ -358,7 +358,7 @@ sin and misery, by the price of Christs Obedience.<note place="margin">Tit. 2.14
             <p>Q. <hi>What is repentance?</hi>
             </p>
             <p>
-               <pb n="10" facs="tcp:000067_0009_0F9F1B11C4233058"/>
+               <pb n="10" facs="unknown:000067_0009_0F9F1B11C4233058"/>
                <note place="margin">Psa. 37.27. Zech. 12.10. Hos. 14.2, 3.</note>
                <hi>A.</hi> An overcoming purpose to for<g ref="char:EOLhyphen"/>sake sin, with sorrow for sin.</p>
             <p>Q. <hi>What is Justification?</hi>
@@ -390,7 +390,7 @@ sin and misery, by the price of Christs Obedience.<note place="margin">Tit. 2.14
                <note place="margin">Rom. 10.13, 14, 15.</note>
                <hi>A.</hi> They are especially publick Mi<g ref="char:EOLhyphen"/>nistery and private Duties.</p>
             <p>
-               <pb n="11" facs="tcp:000067_0010_0F9F1B1856F7F970"/>Q. <hi>What are the Ministerial acts?</hi>
+               <pb n="11" facs="unknown:000067_0010_0F9F1B1856F7F970"/>Q. <hi>What are the Ministerial acts?</hi>
             </p>
             <p>
                <hi>A.</hi> Preaching of the Word, Prayer,<note place="margin">Mat. 28.19 1 Tim. 2.1. Mat. 18.17. &amp; 16.19.</note> administration of the Sacraments, and Discipline.</p>
@@ -424,7 +424,7 @@ sin and misery, by the price of Christs Obedience.<note place="margin">Tit. 2.14
                      <desc>•</desc>
                   </gap>.</note> offered to sinners in the way of belie<g ref="char:EOLhyphen"/>ving, and received by Faith, for assu<g ref="char:EOLhyphen"/>rance of eternal life.</p>
             <p>
-               <pb n="12" facs="tcp:000067_0011_0F9F1B1C70D01FD0"/>Quest. <hi>What is Discipline?</hi>
+               <pb n="12" facs="unknown:000067_0011_0F9F1B1C70D01FD0"/>Quest. <hi>What is Discipline?</hi>
             </p>
             <p>
                <note place="margin">Mat. 18.17</note>
@@ -463,7 +463,7 @@ sin and misery, by the price of Christs Obedience.<note place="margin">Tit. 2.14
             <p>Q. <hi>What is contained in the first Com<g ref="char:EOLhyphen"/>mandment?</hi>
             </p>
             <p>
-               <pb n="13" facs="tcp:000067_0012_0F9F1B1D1DDC8418"/>A. Natural Worship, in Faith, Hope, <gap reason="illegible: indecipherable" extent="1 letter">
+               <pb n="13" facs="unknown:000067_0012_0F9F1B1D1DDC8418"/>A. Natural Worship, in Faith, Hope, <gap reason="illegible: indecipherable" extent="1 letter">
                   <desc>•</desc>
                </gap>ove, Fear, Hearing the Word, and <gap reason="illegible: indecipherable" extent="1 letter">
                   <desc>•</desc>
@@ -494,7 +494,7 @@ sin and misery, by the price of Christs Obedience.<note place="margin">Tit. 2.14
             <p>Qu. <hi>What is contained in the fifth Commandment?</hi>
             </p>
             <p>A. A due respect to the good name
-<pb n="14" facs="tcp:000067_0013_0F9F1B1DCF36B6E0"/>
+<pb n="14" facs="unknown:000067_0013_0F9F1B1DCF36B6E0"/>
 or dignity of our Neighbour, in humili<g ref="char:EOLhyphen"/>ty, gratitude and obedience.</p>
             <p>Qu. <hi>What is humility?</hi>
             </p>
@@ -530,7 +530,7 @@ or dignity of our Neighbour, in humili<g ref="char:EOLhyphen"/>ty, gratitude and
             <p>
                <note place="margin">Luke 21.19. Col. 1.11.</note>A. A grace which moderateth grief in affliction.</p>
             <p>
-               <pb n="15" facs="tcp:000067_0014_0F9F1B1E9B234018"/>Quest. <hi>What is contained in the seventh Commandment?</hi>
+               <pb n="15" facs="unknown:000067_0014_0F9F1B1E9B234018"/>Quest. <hi>What is contained in the seventh Commandment?</hi>
             </p>
             <p>A. A due respect to the purity of our Neighbour, in temperance, chastity, modesty, gravity.</p>
             <p>Qu. <hi>What is temperance?</hi>
@@ -567,7 +567,7 @@ or dignity of our Neighbour, in humili<g ref="char:EOLhyphen"/>ty, gratitude and
                <hi>A.</hi> A grace which inclineth us to com<g ref="char:EOLhyphen"/>municate our goods freely to our neigh<g ref="char:EOLhyphen"/>bour.<note place="margin">Rom. 12.13.</note>
             </p>
             <p>
-               <pb n="16" facs="tcp:000067_0015_0F9F1B1F43D92738"/>Quest <hi>What is frugality?</hi>
+               <pb n="16" facs="unknown:000067_0015_0F9F1B1F43D92738"/>Quest <hi>What is frugality?</hi>
             </p>
             <p>
                <note place="margin">Prov. 31<g ref="char:punc">▪</g> 27.</note>A. A grace which inclineth us to be provident and diligent in our Calling.</p>
